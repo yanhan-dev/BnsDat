@@ -1,0 +1,8 @@
+D:\CSharp\BnsDat\BnsDat\bin\Release\BnsDat.exe.config
+D:\CSharp\BnsDat\BnsDat\bin\Release\BnsDat.exe
+D:\CSharp\BnsDat\BnsDat\bin\Release\BnsDat.pdb
+D:\CSharp\BnsDat\BnsDat\bin\Release\Ionic.Zlib.dll
+D:\CSharp\BnsDat\BnsDat\obj\Release\BnsDat.Resource_lib.resources
+D:\CSharp\BnsDat\BnsDat\obj\Release\BnsDat.csproj.GenerateResource.Cache
+D:\CSharp\BnsDat\BnsDat\obj\Release\BnsDat.exe
+D:\CSharp\BnsDat\BnsDat\obj\Release\BnsDat.pdb
