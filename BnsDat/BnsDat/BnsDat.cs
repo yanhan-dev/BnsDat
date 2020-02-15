@@ -33,7 +33,8 @@ namespace BnsDat
     public class BNSDat
     {
 
-        public string AES_KEY = "bns_obt_kr_2014#";
+        //public string AES_KEY = "bns_obt_kr_2014#";
+        public string AES_KEY = "jan_2#0_cpl_bns!";
 
         public byte[] XOR_KEY = new byte[16] { 164, 159, 216, 179, 246, 142, 57, 194, 45, 224, 97, 117, 92, 75, 26, 7 };
 
